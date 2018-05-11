@@ -54,7 +54,7 @@ https://webvr.info/
 
 http://www.vudream.com/learn-the-skills-and-resources-you-need-to-master-virtual-reality/
 
-https://github.com/aframevr/awesome-aframe
+https://github.com/aframevr/awesome-aframe `! DISCONTINUED `
 
 https://github.com/wizztjh/awesome-WebVR
 
