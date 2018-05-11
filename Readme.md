@@ -1,3 +1,5 @@
+https://lensreality.com/wp-content/uploads/2017/08/How-to-become-a-WebVR-pro.jpg
+
 # Learn WebVR
 
 `Resources to learn WebVR`
